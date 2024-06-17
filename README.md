@@ -86,3 +86,67 @@ The capabilities of the programme are basically as follows:
 
 **5. Adding Unlimited Number of Accounts: **The programme allows you to add an unlimited number of Instagram accounts. In this way, you can manage multiple accounts at the same time and plan separate content for each account.
 
+### PlaceHolders for xPaths
+
+1. `<Meta Business Suite element>`  
+   **Description**: This is the XPath for the Meta Business Suite element on the page, typically used to ensure the Meta Business Suite is visible and loaded before interacting with other elements on the page.
+
+2. `<BizKitPresenceSelector element>`  
+   **Description**: This XPath targets the element responsible for selecting the business presence or profile within the Meta Business Suite. It is often a clickable area that brings up a list of business entities.
+
+3. `<business entity search input>`  
+   **Description**: This XPath targets the search input field where the user types the name of the business entity they want to search for within the Meta Business Suite.
+
+4. `<business entity search result>`  
+   **Description**: This XPath identifies the search result element that appears after typing the business entity name in the search input field. Clicking this element selects the desired business entity.
+
+5. `<Create Post button>`  
+   **Description**: This XPath identifies the button or element that initiates the process of creating a new post. This is used to start drafting a new post for the selected business entity.
+
+6. `<Add Photo button>`  
+   **Description**: This XPath targets the button that allows users to add a photo to their post. It is part of the post creation workflow.
+
+7. `<Upload from Computer button>`  
+   **Description**: This XPath identifies the option to upload a photo or video from the user's computer. It is typically found within a file upload dialog.
+
+8. `<combobox element>`  
+   **Description**: This XPath is for the combobox or dropdown element used to select various options, such as sharing preferences for Facebook and Instagram within the post creation process.
+
+9. `<listbox elements>`  
+   **Description**: This XPath targets the list of selectable elements within a dropdown or listbox, such as checkboxes for different sharing options.
+
+10. `<post description textbox>`  
+    **Description**: This XPath identifies the textbox where the post description or caption is entered. This element is used to type or insert the content of the post.
+
+11. `<schedule date and time input>`  
+    **Description**: This XPath targets the input field for scheduling the date and time of the post. This is part of the scheduling options available when creating a post.
+
+12. `<date input field>`  
+    **Description**: This XPath identifies the specific input field for entering the date. This is used to set the exact date when the post should be published.
+
+13. `<minute input field>`  
+    **Description**: This XPath targets the input field for specifying the minute part of the time when scheduling a post. It is used in conjunction with the hour input field.
+
+14. `<hour input field>`  
+    **Description**: This XPath identifies the input field for entering the hour part of the time when scheduling a post. It is used to set the exact hour for the scheduled post.
+
+15. `<AM/PM input field>`  
+    **Description**: This XPath targets the input field where the user specifies whether the time entered is in AM or PM format. This is part of the time scheduling setup.
+
+16. `<Schedule button>`  
+    **Description**: This XPath identifies the button used to finalize and schedule the post. Clicking this button confirms the date and time settings and schedules the post.
+
+17. `<Create Reels Video button>`  
+    **Description**: This XPath identifies the button that initiates the creation of a Reels video. It is part of the interface for creating video content specifically formatted for Reels.
+
+18. `<Add Video button>`  
+    **Description**: This XPath targets the button that allows users to add a video to their Reels. It is part of the Reels video creation workflow.
+
+19. `<Upload Cover button>`  
+    **Description**: This XPath identifies the button used to upload a cover image for a video or post. It is used to select an image that will serve as the thumbnail or cover for the content.
+
+20. `<Upload Cover option>`  
+    **Description**: This XPath targets the specific option within the upload dialog for selecting the cover image file from the user's computer.
+
+21. `<Next buttons>`  
+    **Description**: This XPath identifies the "Next" buttons used to navigate through different steps of the post or video creation process. These buttons are used to move from one stage to the next within the workflow.
