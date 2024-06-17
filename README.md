@@ -78,13 +78,13 @@ The capabilities of the programme are basically as follows:
 
 **1. Sharing Reels Videos and Regular Posts:** The programme allows you to share both Reels videos and standard posts (photos and videos). This way, you can effectively manage different types of content.
 
-**2. Organisation of Content Descriptions, Sharing Dates and Times: **The programme allows you to easily edit the descriptions, sharing dates and times of each post. This feature makes it possible to plan your content in advance and optimise your timing.
+**2. Organisation of Content Descriptions, Sharing Dates and Times:** The programme allows you to easily edit the descriptions, sharing dates and times of each post. This feature makes it possible to plan your content in advance and optimise your timing.
 
-**3. Customisation of Content for Each Instagram Account: **The program allows you to customise content for each Instagram account. In this way, you can develop and implement specific content strategies for different accounts.
+**3. Customisation of Content for Each Instagram Account:** The program allows you to customise content for each Instagram account. In this way, you can develop and implement specific content strategies for different accounts.
 
-**4. Storing Content on Computer: **All social media content is stored securely on your computer. This feature ensures that your content is stored in an organised manner and can be easily accessed when needed.
+**4. Storing Content on Computer:** All social media content is stored securely on your computer. This feature ensures that your content is stored in an organised manner and can be easily accessed when needed.
 
-**5. Adding Unlimited Number of Accounts: **The programme allows you to add an unlimited number of Instagram accounts. In this way, you can manage multiple accounts at the same time and plan separate content for each account.
+**5. Adding Unlimited Number of Accounts:** The programme allows you to add an unlimited number of Instagram accounts. In this way, you can manage multiple accounts at the same time and plan separate content for each account.
 
 ### PlaceHolders for xPaths
 
