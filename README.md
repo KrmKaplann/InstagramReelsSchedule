@@ -2,7 +2,7 @@
 
 This programme allows you to effectively schedule your **Instagram** and **Facebook** posts using Excel. It provides significant time savings for individuals and social media managers who manage multiple **Instagram** accounts. The programme makes it possible to plan your content in an organised and systematic way, making social media management more efficient.
 
-
+https://github.com/KrmKaplann/InstagramReelsSchedule/assets/172985380/c968e090-77e0-4972-a2d0-b6e9efe15cab
 
 For example, imagine you have **10 Instagram and Facebook** accounts and you need to schedule content for each of them. Doing this manually through Facebook Creator Studio would be quite time-consuming and complicated. Instead, with this Excel-based programme, you can manage and develop your content more easily. Thanks to the flexibility of Excel, you can see all your social media content at a glance and make quick edits when necessary.
 
